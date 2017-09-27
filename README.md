@@ -1,2 +1,2 @@
 # DratInstall
-A simple customisable installation package creation program.
+A simple customisable installation package creation program for Windows.
